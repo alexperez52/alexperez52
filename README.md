@@ -1,5 +1,4 @@
 ### Welcome to my Github page
-### Feel free to browse around!
 
 <!--
 **alexperez52/alexperez52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
